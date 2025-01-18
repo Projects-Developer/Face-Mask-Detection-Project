@@ -1,4 +1,4 @@
-# Face-Mask-Detection-Project
+# Face Mask Detection Project
 The Face Mask Detection Project With Code, Documents And video Tutorial
 
 ![Face MAsk](https://github.com/user-attachments/assets/bfd177b1-2f92-4d15-afb8-92961d22a8ae)
